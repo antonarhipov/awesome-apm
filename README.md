@@ -1,5 +1,5 @@
 # awesome-apm
-A list of awesome APM products (commercial and OSS)
+A list of awesome APM (Application Performance Monitoring) tools & products (commercial and OSS)
 
 * [Apache SkyWalking](http://skywalking.apache.org/)
 * [AppDynamics](https://www.appdynamics.com/)
