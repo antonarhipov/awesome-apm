@@ -38,3 +38,4 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [StageMonitor](http://www.stagemonitor.org/)
 * [Stackify](http://stackify.com/)
 * [Zipkin](https://zipkin.io/)
+* [Fiery](https://github.com/weiboad/fiery)
