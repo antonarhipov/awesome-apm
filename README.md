@@ -33,7 +33,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [OkMeter](https://okmeter.io/)
 * [Perfino](https://www.ej-technologies.com/products/perfino/overview.html)
 * [Pinpoint](https://github.com/naver/pinpoint)
-* [Plumbr](https://plumbr.eu/)
+* [Plumbr](https://plumbr.io/)
 * [Riverbed SteelCentral](https://www.riverbed.com/gb/products/steelcentral/index.html)
 * [Ruxit by Dynatrace](https://www.dynatrace.com/platform/offerings/ruxit/)
 * [Scouter](https://github.com/scouter-project/scouter)
