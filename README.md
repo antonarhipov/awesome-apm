@@ -19,7 +19,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [inspectIT](http://www.inspectit.rocks/)
 * [Instana](https://www.instana.com/application-management/)
 * [Instrumental](https://instrumentalapp.com/)
-* [Jaeger-Tracing](https://www.jaegertracing.io/)
+* [Jaeger](https://www.jaegertracing.io/)
 * [JAMon](http://jamonapi.sourceforge.net/)
 * [JavaMelody](https://github.com/javamelody/javamelody/wiki)
 * [Java Monitor](http://java-monitor.com/forum/welcome.php)
