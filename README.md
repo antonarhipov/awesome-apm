@@ -3,7 +3,6 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 
 * [Apache SkyWalking](http://skywalking.apache.org/)
 * [AppDynamics](https://www.appdynamics.com/)
-* [AppFirst](http://www.appfirst.com/)
 * [AppOptics](https://www.appoptics.com/)
 * [BMC APM](http://www.bmc.com/it-solutions/application-performance-management.html)
 * [CA APM](http://www.ca.com/us/products/ca-application-performance-management.html)
@@ -36,6 +35,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [Plumbr](https://plumbr.io/)
 * [Riverbed SteelCentral](https://www.riverbed.com/gb/products/steelcentral/index.html)
 * [Ruxit by Dynatrace](https://www.dynatrace.com/platform/offerings/ruxit/)
+* [ScienceLogic](https://sciencelogic.com/)
 * [Scouter](https://github.com/scouter-project/scouter)
 * [Sematext SPM](https://sematext.com/spm/)
 * [SpyGlass Tools](http://www.spyglasstools.com/)
