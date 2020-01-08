@@ -9,6 +9,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [Datadog](https://datadoghq.com/)
 * [DripStat](https://dripstat.com/)
 * [Dynatrace](https://www.dynatrace.com/)
+* [eG Enterprise APM](https://www.eginnovations.com/application-performance-management)
 * [Elastic](https://www.elastic.co/solutions/apm)
 * [Fiery](https://github.com/weiboad/fiery)
 * [Foglight](https://software.dell.com/foglight/)
