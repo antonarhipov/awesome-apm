@@ -38,6 +38,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [Ruxit by Dynatrace](https://www.dynatrace.com/platform/offerings/ruxit/)
 * [ScienceLogic](https://sciencelogic.com/)
 * [Scouter](https://github.com/scouter-project/scouter)
+* [SignalFx](https://www.signalfx.com/)
 * [Sematext SPM](https://sematext.com/spm/)
 * [SpyGlass Tools](http://www.spyglasstools.com/)
 * [StageMonitor](http://www.stagemonitor.org/)
