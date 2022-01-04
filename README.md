@@ -37,6 +37,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [ScienceLogic](https://sciencelogic.com/)
 * [Scouter](https://github.com/scouter-project/scouter)
 * [Sematext SPM](https://sematext.com/spm/)
+* [Sentry](https://sentry.io/)
 * [Splunk](https://www.splunk.com/en_us/observability/apm-application-performance-monitoring.html)
 * [StageMonitor](http://www.stagemonitor.org/)
 * [Stackify](http://stackify.com/)
