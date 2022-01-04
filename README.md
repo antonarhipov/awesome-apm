@@ -15,7 +15,6 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [Foglight](https://www.quest.com/foglight/)
 * [Fusion Reactor](http://www.fusion-reactor.com/)
 * [Glowroot](https://glowroot.org/)
-* [Illuminate](https://www.jclarity.com/illuminate/)
 * [inspectIT](http://www.inspectit.rocks/)
 * [Instana](https://www.instana.com/application-management/)
 * [Instrumental](https://instrumentalapp.com/)
