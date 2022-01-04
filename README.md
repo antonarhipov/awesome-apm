@@ -43,4 +43,5 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [SpyGlass Tools](http://www.spyglasstools.com/)
 * [StageMonitor](http://www.stagemonitor.org/)
 * [Stackify](http://stackify.com/)
+* [Thundra](https://thundra.io/)
 * [Zipkin](https://zipkin.io/)
