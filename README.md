@@ -12,6 +12,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [Bugsnag](https://www.bugsnag.com/)
 * [Catchpoint](https://www.catchpoint.com/)
 * [CA APM](http://www.ca.com/us/products/ca-application-performance-management.html)
+* [Dash0](https://www.dash0.com/)
 * [Datadog](https://datadoghq.com/)
 * [Datav](https://datav.io/)
 * [Dynatrace](https://www.dynatrace.com/)
