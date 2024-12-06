@@ -55,6 +55,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [StageMonitor](http://www.stagemonitor.org/)
 * [Stackify](http://stackify.com/)
 * [Team Viewer Web Monitoring](https://www.teamviewer.com/en/remote-management/web-monitoring/)
+* [Visuale - Micro-services Environment Monitoring](https://github.com/Cantara/visuale)
 * [Thundra](https://thundra.io/)
 * [Zabbix](https://www.zabbix.com/)
 * [Zipkin](https://zipkin.io/)
